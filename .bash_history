@@ -109,3 +109,69 @@ git push origin master
 git status
 cd wsc
 cd ws/Website
+git status
+git add .
+commit -m "added some bits to html and css background"
+git commit -m " Added some bits to html and css body background"
+git push origin master
+git status
+cd ws?Website
+cd ws/Website
+cd ws
+cd ws/Website
+halas@LAPTOP-0G4249OI:~/ws/Website$ git status
+cd ws/Website
+git status
+git add .
+git status
+git push origin master
+git status
+git commit -m "Added some bits"
+git status
+cd ws/Website
+.git
+.git push
+cd ws/Website.git
+cd ws/Website
+open
+.git
+git
+vs code
+visual studio code
+cd ws/Website
+git status
+git add .
+git commit -a "All the nessesities added. Also added Header and part of Intro section"
+git push origin master
+git push
+git push master
+cd ws/Website
+git status
+git add .
+git commit -m"All the html bits added. Also added header, and part of intro section"
+git push origin master
+git status
+cd ws/Website
+git status
+git add .
+git commit -m "Added all the big parts without details"
+git status
+git push origin master
+git status
+git add .
+git commit -a "copyrigth added"
+commit -m "copyright added"
+git commit -m "copyright added"
+git push origin master
+git status
+cd ws\ Calculator
+cd ws/ Calculator
+cd ws/Calculator
+cd ws/Simple Calculator
+cd ws/Simplee calculator
+cd ws/Simple calculator
+cd ws\ calculator
+cd ws/ Simple
+ws/Simple calculator
+cd ws/simple calculator
+cd ws/Calculator
