@@ -175,3 +175,7 @@ cd ws/ Simple
 ws/Simple calculator
 cd ws/simple calculator
 cd ws/Calculator
+git status
+git add .
+git init
+git status
